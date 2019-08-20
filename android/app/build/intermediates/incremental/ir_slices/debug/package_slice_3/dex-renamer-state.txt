@@ -1,0 +1,4 @@
+#Tue Aug 20 17:42:22 IST 2019
+base.0=/Users/frendy/Documents/Rishav/CrashAnalytics/android/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

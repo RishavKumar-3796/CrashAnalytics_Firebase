@@ -1,0 +1,513 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /Users/frendy/Documents/Rishav/CrashAnalytics/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-firebase] /Users/frendy/Documents/Rishav/CrashAnalytics/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/crashlytics-2.7.1.aar/464708ebc02ad875fbbde04fd35d2570/AndroidManifest.xml:2:1-19:12
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.8.aar/86f111254d3de6400dfe4b4086cd446c/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/beaeb2c3c3b82977b03cb99cdd9daf27/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/e06b943b471d7e8a7294f4cf8332ffd6/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-analytics-17.0.1.aar/607ee12020456cd9bbfd344bb9191e8a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-17.0.1.aar/177705eda3e0e148ff323b03442f6feb/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-17.0.0.aar/3d7ddcc26fe25608c81150d77a708d2b/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/bb79a8029f8c2c04aacb9dd05348d5e3/AndroidManifest.xml:17:1-29:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/frendy/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/17bd21e9ec7f831f1a0552986a53adb9/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.4.1.aar/24897517146e2a41644e53fc66f43445/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-answers-1.4.1.aar/dbe1d812fc993b65d37ddb5b228596d8/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/fabric-1.4.1.aar/7d183902d9865e1576bd9c210b05bb24/AndroidManifest.xml:22:1-33:12
+MERGED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-17.0.1.aar/c949b06a6b74a68a2aae9fc62fd851a4/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-17.0.1.aar/e7a7b3ba77b5e4a8e0aa50989df5276f/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-17.0.1.aar/6c32ff8765d9f2ac0fadea2fc43a4b6c/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-17.0.1.aar/737c160016cc085c10e5673a9df7fbae/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-stats-17.0.0.aar/1e78f41a27c45b054961ba756fa90d1b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-common-18.0.0.aar/c30eb605a2ed69e2f087a3994b4b5605/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/85661083bd9933d66a9b22e9a2cc49cf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-18.0.0.aar/3420deef8a217f6a39083189b811e3bb/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-17.0.0.aar/09584225cfd6f911c1f94d8c78edb49f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/736d1ddee51f9b748182d30232d9d96f/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/491f537daf28e15342f53416803d8a72/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/087e3554c7e847ed6e0836800ce3251a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/7b26ad396d10f1f3ac7b92b213d7ee75/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/24ee10816bd3f759da95613c318d9826/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/019f2eacc80639004613e596a8ac60d8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/b6a9a81b5370076ffe981897373d967d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/7a9a000d02be87247c4cc9af700f3644/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/baa10af17029984c8d9d45127942f720/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/83759efa053b27db34e0edc67c9aa124/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/28a677078928f0136fda68d5accad43d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/9e8036848f75a8966ff4ac1b329598c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/97c33d718e1a098363ee99647923da80/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/80cfcb005d748a03e261393bbe69b8bd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/72da931ab115fffb22e1864d527c7a42/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/ebfaf1ca740273358ec98aab1f907de8/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/693b1545fa1c65b9482cb16c4bb4c2f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/0f7e8c61b411674bf5fcd75c1e6a5628/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/bb6261dcad7d16aa9dcace73d93c941c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/3bee75fb522311f97b333a87cabba079/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/8adf0b4f32d0a684ab7e5e443049cdf2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/63ec527edb454e7739c2580ecc440538/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/8dbf117c55395df5796ce1fa78d9e748/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/6c0e0835d3cbd2f20019111f11c709df/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/fba6dccf30872e6863b94b79bf131311/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/6cc93da206e25be78137f180dbe5b85c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.10.0.aar/5d5e9b637c9f8ad09c5cc8228d77fd48/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/82d828b9fea008cf70d2b059de979ee8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.10.0.aar/26265de01f0d72c04039d5bc5c059027/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.10.0.aar/71fdd17e0c49c3b2e826a98434fc9229/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.10.0.aar/14c744134c14e7a64f31a9265703faee/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/58707c8282970fadc27995370af0d4c5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.10.0.aar/468c0458e9db256036e48090a1eb3d7b/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/debug/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/debug/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/debug/AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase] /Users/frendy/Documents/Rishav/CrashAnalytics/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /Users/frendy/Documents/Rishav/CrashAnalytics/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/crashlytics-2.7.1.aar/464708ebc02ad875fbbde04fd35d2570/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/crashlytics-2.7.1.aar/464708ebc02ad875fbbde04fd35d2570/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-17.0.1.aar/177705eda3e0e148ff323b03442f6feb/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-17.0.1.aar/177705eda3e0e148ff323b03442f6feb/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/frendy/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/17bd21e9ec7f831f1a0552986a53adb9/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/frendy/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/17bd21e9ec7f831f1a0552986a53adb9/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.4.1.aar/24897517146e2a41644e53fc66f43445/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.4.1.aar/24897517146e2a41644e53fc66f43445/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-answers-1.4.1.aar/dbe1d812fc993b65d37ddb5b228596d8/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-answers-1.4.1.aar/dbe1d812fc993b65d37ddb5b228596d8/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/fabric-1.4.1.aar/7d183902d9865e1576bd9c210b05bb24/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/fabric-1.4.1.aar/7d183902d9865e1576bd9c210b05bb24/AndroidManifest.xml:29:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-17.0.1.aar/e7a7b3ba77b5e4a8e0aa50989df5276f/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-17.0.1.aar/e7a7b3ba77b5e4a8e0aa50989df5276f/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-17.0.1.aar/6c32ff8765d9f2ac0fadea2fc43a4b6c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-17.0.1.aar/6c32ff8765d9f2ac0fadea2fc43a4b6c/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-firebase] /Users/frendy/Documents/Rishav/CrashAnalytics/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-firebase] /Users/frendy/Documents/Rishav/CrashAnalytics/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/crashlytics-2.7.1.aar/464708ebc02ad875fbbde04fd35d2570/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/crashlytics-2.7.1.aar/464708ebc02ad875fbbde04fd35d2570/AndroidManifest.xml:11:5-17:19
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.8.aar/86f111254d3de6400dfe4b4086cd446c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.8.aar/86f111254d3de6400dfe4b4086cd446c/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/e06b943b471d7e8a7294f4cf8332ffd6/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/e06b943b471d7e8a7294f4cf8332ffd6/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-analytics-17.0.1.aar/607ee12020456cd9bbfd344bb9191e8a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-analytics-17.0.1.aar/607ee12020456cd9bbfd344bb9191e8a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-17.0.1.aar/177705eda3e0e148ff323b03442f6feb/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-17.0.1.aar/177705eda3e0e148ff323b03442f6feb/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-17.0.0.aar/3d7ddcc26fe25608c81150d77a708d2b/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-17.0.0.aar/3d7ddcc26fe25608c81150d77a708d2b/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/bb79a8029f8c2c04aacb9dd05348d5e3/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/bb79a8029f8c2c04aacb9dd05348d5e3/AndroidManifest.xml:22:5-27:19
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/frendy/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/17bd21e9ec7f831f1a0552986a53adb9/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/frendy/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/17bd21e9ec7f831f1a0552986a53adb9/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.4.1.aar/24897517146e2a41644e53fc66f43445/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.4.1.aar/24897517146e2a41644e53fc66f43445/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-answers-1.4.1.aar/dbe1d812fc993b65d37ddb5b228596d8/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-answers-1.4.1.aar/dbe1d812fc993b65d37ddb5b228596d8/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/fabric-1.4.1.aar/7d183902d9865e1576bd9c210b05bb24/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/fabric-1.4.1.aar/7d183902d9865e1576bd9c210b05bb24/AndroidManifest.xml:31:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-17.0.1.aar/c949b06a6b74a68a2aae9fc62fd851a4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-17.0.1.aar/c949b06a6b74a68a2aae9fc62fd851a4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-17.0.1.aar/e7a7b3ba77b5e4a8e0aa50989df5276f/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-17.0.1.aar/e7a7b3ba77b5e4a8e0aa50989df5276f/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-17.0.1.aar/6c32ff8765d9f2ac0fadea2fc43a4b6c/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-17.0.1.aar/6c32ff8765d9f2ac0fadea2fc43a4b6c/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-17.0.1.aar/737c160016cc085c10e5673a9df7fbae/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-17.0.1.aar/737c160016cc085c10e5673a9df7fbae/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-stats-17.0.0.aar/1e78f41a27c45b054961ba756fa90d1b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-stats-17.0.0.aar/1e78f41a27c45b054961ba756fa90d1b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-common-18.0.0.aar/c30eb605a2ed69e2f087a3994b4b5605/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-common-18.0.0.aar/c30eb605a2ed69e2f087a3994b4b5605/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/85661083bd9933d66a9b22e9a2cc49cf/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/85661083bd9933d66a9b22e9a2cc49cf/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-18.0.0.aar/3420deef8a217f6a39083189b811e3bb/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-18.0.0.aar/3420deef8a217f6a39083189b811e3bb/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-17.0.0.aar/09584225cfd6f911c1f94d8c78edb49f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-17.0.0.aar/09584225cfd6f911c1f94d8c78edb49f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/736d1ddee51f9b748182d30232d9d96f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/736d1ddee51f9b748182d30232d9d96f/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/72da931ab115fffb22e1864d527c7a42/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/72da931ab115fffb22e1864d527c7a42/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/ebfaf1ca740273358ec98aab1f907de8/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/ebfaf1ca740273358ec98aab1f907de8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/58707c8282970fadc27995370af0d4c5/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/58707c8282970fadc27995370af0d4c5/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/72da931ab115fffb22e1864d527c7a42/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/debug/AndroidManifest.xml:8:26-65
+	android:roundIcon
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/debug/AndroidManifest.xml:8:5-25
+	android:icon
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.crashanalytics.MainActivity
+ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/frendy/Documents/Rishav/CrashAnalytics/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/frendy/Documents/Rishav/CrashAnalytics/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Users/frendy/Documents/Rishav/CrashAnalytics/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Users/frendy/Documents/Rishav/CrashAnalytics/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/crashlytics-2.7.1.aar/464708ebc02ad875fbbde04fd35d2570/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/crashlytics-2.7.1.aar/464708ebc02ad875fbbde04fd35d2570/AndroidManifest.xml:7:5-43
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.8.aar/86f111254d3de6400dfe4b4086cd446c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.8.aar/86f111254d3de6400dfe4b4086cd446c/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/beaeb2c3c3b82977b03cb99cdd9daf27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/beaeb2c3c3b82977b03cb99cdd9daf27/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/e06b943b471d7e8a7294f4cf8332ffd6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/e06b943b471d7e8a7294f4cf8332ffd6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-analytics-17.0.1.aar/607ee12020456cd9bbfd344bb9191e8a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-analytics-17.0.1.aar/607ee12020456cd9bbfd344bb9191e8a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-17.0.1.aar/177705eda3e0e148ff323b03442f6feb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-17.0.1.aar/177705eda3e0e148ff323b03442f6feb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-17.0.0.aar/3d7ddcc26fe25608c81150d77a708d2b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-17.0.0.aar/3d7ddcc26fe25608c81150d77a708d2b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/bb79a8029f8c2c04aacb9dd05348d5e3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/bb79a8029f8c2c04aacb9dd05348d5e3/AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/frendy/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/17bd21e9ec7f831f1a0552986a53adb9/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/frendy/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/17bd21e9ec7f831f1a0552986a53adb9/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.4.1.aar/24897517146e2a41644e53fc66f43445/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.4.1.aar/24897517146e2a41644e53fc66f43445/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-answers-1.4.1.aar/dbe1d812fc993b65d37ddb5b228596d8/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-answers-1.4.1.aar/dbe1d812fc993b65d37ddb5b228596d8/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/fabric-1.4.1.aar/7d183902d9865e1576bd9c210b05bb24/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/fabric-1.4.1.aar/7d183902d9865e1576bd9c210b05bb24/AndroidManifest.xml:27:5-43
+MERGED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-17.0.1.aar/c949b06a6b74a68a2aae9fc62fd851a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-17.0.1.aar/c949b06a6b74a68a2aae9fc62fd851a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-17.0.1.aar/e7a7b3ba77b5e4a8e0aa50989df5276f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-17.0.1.aar/e7a7b3ba77b5e4a8e0aa50989df5276f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-17.0.1.aar/6c32ff8765d9f2ac0fadea2fc43a4b6c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-17.0.1.aar/6c32ff8765d9f2ac0fadea2fc43a4b6c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-17.0.1.aar/737c160016cc085c10e5673a9df7fbae/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-17.0.1.aar/737c160016cc085c10e5673a9df7fbae/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-stats-17.0.0.aar/1e78f41a27c45b054961ba756fa90d1b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-stats-17.0.0.aar/1e78f41a27c45b054961ba756fa90d1b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-common-18.0.0.aar/c30eb605a2ed69e2f087a3994b4b5605/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-common-18.0.0.aar/c30eb605a2ed69e2f087a3994b4b5605/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/85661083bd9933d66a9b22e9a2cc49cf/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/85661083bd9933d66a9b22e9a2cc49cf/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-18.0.0.aar/3420deef8a217f6a39083189b811e3bb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-18.0.0.aar/3420deef8a217f6a39083189b811e3bb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-17.0.0.aar/09584225cfd6f911c1f94d8c78edb49f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-17.0.0.aar/09584225cfd6f911c1f94d8c78edb49f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/736d1ddee51f9b748182d30232d9d96f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/736d1ddee51f9b748182d30232d9d96f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/491f537daf28e15342f53416803d8a72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/491f537daf28e15342f53416803d8a72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/087e3554c7e847ed6e0836800ce3251a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/087e3554c7e847ed6e0836800ce3251a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/7b26ad396d10f1f3ac7b92b213d7ee75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/7b26ad396d10f1f3ac7b92b213d7ee75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/24ee10816bd3f759da95613c318d9826/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/24ee10816bd3f759da95613c318d9826/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/019f2eacc80639004613e596a8ac60d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/019f2eacc80639004613e596a8ac60d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/b6a9a81b5370076ffe981897373d967d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/b6a9a81b5370076ffe981897373d967d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/7a9a000d02be87247c4cc9af700f3644/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/7a9a000d02be87247c4cc9af700f3644/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/baa10af17029984c8d9d45127942f720/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/baa10af17029984c8d9d45127942f720/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/83759efa053b27db34e0edc67c9aa124/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/83759efa053b27db34e0edc67c9aa124/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/28a677078928f0136fda68d5accad43d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/28a677078928f0136fda68d5accad43d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/9e8036848f75a8966ff4ac1b329598c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/9e8036848f75a8966ff4ac1b329598c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/97c33d718e1a098363ee99647923da80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/97c33d718e1a098363ee99647923da80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/80cfcb005d748a03e261393bbe69b8bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/80cfcb005d748a03e261393bbe69b8bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/72da931ab115fffb22e1864d527c7a42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/72da931ab115fffb22e1864d527c7a42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/ebfaf1ca740273358ec98aab1f907de8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/ebfaf1ca740273358ec98aab1f907de8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/693b1545fa1c65b9482cb16c4bb4c2f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/693b1545fa1c65b9482cb16c4bb4c2f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/0f7e8c61b411674bf5fcd75c1e6a5628/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/0f7e8c61b411674bf5fcd75c1e6a5628/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/bb6261dcad7d16aa9dcace73d93c941c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/bb6261dcad7d16aa9dcace73d93c941c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/3bee75fb522311f97b333a87cabba079/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/3bee75fb522311f97b333a87cabba079/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/8adf0b4f32d0a684ab7e5e443049cdf2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/8adf0b4f32d0a684ab7e5e443049cdf2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/63ec527edb454e7739c2580ecc440538/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/63ec527edb454e7739c2580ecc440538/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/8dbf117c55395df5796ce1fa78d9e748/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/8dbf117c55395df5796ce1fa78d9e748/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/6c0e0835d3cbd2f20019111f11c709df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/6c0e0835d3cbd2f20019111f11c709df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/fba6dccf30872e6863b94b79bf131311/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/fba6dccf30872e6863b94b79bf131311/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/6cc93da206e25be78137f180dbe5b85c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/6cc93da206e25be78137f180dbe5b85c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.10.0.aar/5d5e9b637c9f8ad09c5cc8228d77fd48/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.10.0.aar/5d5e9b637c9f8ad09c5cc8228d77fd48/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/82d828b9fea008cf70d2b059de979ee8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/82d828b9fea008cf70d2b059de979ee8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.10.0.aar/26265de01f0d72c04039d5bc5c059027/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.10.0.aar/26265de01f0d72c04039d5bc5c059027/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.10.0.aar/71fdd17e0c49c3b2e826a98434fc9229/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.10.0.aar/71fdd17e0c49c3b2e826a98434fc9229/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.10.0.aar/14c744134c14e7a64f31a9265703faee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.10.0.aar/14c744134c14e7a64f31a9265703faee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/58707c8282970fadc27995370af0d4c5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/58707c8282970fadc27995370af0d4c5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.10.0.aar/468c0458e9db256036e48090a1eb3d7b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.10.0.aar/468c0458e9db256036e48090a1eb3d7b/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/frendy/Documents/Rishav/CrashAnalytics/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase] /Users/frendy/Documents/Rishav/CrashAnalytics/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-17.0.1.aar/177705eda3e0e148ff323b03442f6feb/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-17.0.1.aar/177705eda3e0e148ff323b03442f6feb/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-17.0.1.aar/e7a7b3ba77b5e4a8e0aa50989df5276f/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-17.0.1.aar/e7a7b3ba77b5e4a8e0aa50989df5276f/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-17.0.1.aar/6c32ff8765d9f2ac0fadea2fc43a4b6c/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-17.0.1.aar/6c32ff8765d9f2ac0fadea2fc43a4b6c/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase] /Users/frendy/Documents/Rishav/CrashAnalytics/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase] /Users/frendy/Documents/Rishav/CrashAnalytics/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-17.0.1.aar/177705eda3e0e148ff323b03442f6feb/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-17.0.1.aar/177705eda3e0e148ff323b03442f6feb/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-17.0.1.aar/e7a7b3ba77b5e4a8e0aa50989df5276f/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-17.0.1.aar/e7a7b3ba77b5e4a8e0aa50989df5276f/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-17.0.1.aar/6c32ff8765d9f2ac0fadea2fc43a4b6c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-17.0.1.aar/6c32ff8765d9f2ac0fadea2fc43a4b6c/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase] /Users/frendy/Documents/Rishav/CrashAnalytics/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase] /Users/frendy/Documents/Rishav/CrashAnalytics/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-17.0.1.aar/177705eda3e0e148ff323b03442f6feb/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-17.0.1.aar/177705eda3e0e148ff323b03442f6feb/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-17.0.1.aar/177705eda3e0e148ff323b03442f6feb/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [:react-native-firebase] /Users/frendy/Documents/Rishav/CrashAnalytics/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
+meta-data#com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase] /Users/frendy/Documents/Rishav/CrashAnalytics/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [:react-native-firebase] /Users/frendy/Documents/Rishav/CrashAnalytics/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [:react-native-firebase] /Users/frendy/Documents/Rishav/CrashAnalytics/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/crashlytics-2.7.1.aar/464708ebc02ad875fbbde04fd35d2570/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/crashlytics-2.7.1.aar/464708ebc02ad875fbbde04fd35d2570/AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/crashlytics-2.7.1.aar/464708ebc02ad875fbbde04fd35d2570/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/crashlytics-2.7.1.aar/464708ebc02ad875fbbde04fd35d2570/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/crashlytics-2.7.1.aar/464708ebc02ad875fbbde04fd35d2570/AndroidManifest.xml:13:13-75
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-17.0.1.aar/177705eda3e0e148ff323b03442f6feb/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-17.0.1.aar/177705eda3e0e148ff323b03442f6feb/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-17.0.1.aar/177705eda3e0e148ff323b03442f6feb/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-iid-19.0.0.aar/9bbcdfaab81d396e3b1211de0f296344/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/bb79a8029f8c2c04aacb9dd05348d5e3/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/bb79a8029f8c2c04aacb9dd05348d5e3/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/bb79a8029f8c2c04aacb9dd05348d5e3/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/bb79a8029f8c2c04aacb9dd05348d5e3/AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-17.0.1.aar/e7a7b3ba77b5e4a8e0aa50989df5276f/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-17.0.1.aar/e7a7b3ba77b5e4a8e0aa50989df5276f/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-17.0.1.aar/6c32ff8765d9f2ac0fadea2fc43a4b6c/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-17.0.1.aar/6c32ff8765d9f2ac0fadea2fc43a4b6c/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-17.0.1.aar/e7a7b3ba77b5e4a8e0aa50989df5276f/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-17.0.1.aar/e7a7b3ba77b5e4a8e0aa50989df5276f/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-17.0.1.aar/6c32ff8765d9f2ac0fadea2fc43a4b6c/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-17.0.1.aar/6c32ff8765d9f2ac0fadea2fc43a4b6c/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.1] /Users/frendy/.gradle/caches/transforms-1/files-1.1/play-services-measurement-17.0.1.aar/64d99a15c7c0dd26463774177b275c01/AndroidManifest.xml:49:13-87
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-common-18.0.0.aar/c30eb605a2ed69e2f087a3994b4b5605/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-common-18.0.0.aar/c30eb605a2ed69e2f087a3994b4b5605/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-common-18.0.0.aar/c30eb605a2ed69e2f087a3994b4b5605/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-common-18.0.0.aar/c30eb605a2ed69e2f087a3994b4b5605/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/firebase-common-18.0.0.aar/c30eb605a2ed69e2f087a3994b4b5605/AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/736d1ddee51f9b748182d30232d9d96f/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/736d1ddee51f9b748182d30232d9d96f/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/frendy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/736d1ddee51f9b748182d30232d9d96f/AndroidManifest.xml:24:13-58

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "297026418032",
+    "firebase_url": "https://crashanalyticsfrendy.firebaseio.com",
+    "project_id": "crashanalyticsfrendy",
+    "storage_bucket": "crashanalyticsfrendy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297026418032:android:a5de7c35fa73a51e",
+        "android_client_info": {
+          "package_name": "com.crashanalytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297026418032-08f7m0tsjmne2hli98je58ovm6li0ifi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLbeg8u_PvHkN2igmeLocBEAFldKIClTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297026418032-08f7m0tsjmne2hli98je58ovm6li0ifi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
